@@ -12,7 +12,7 @@ I'm a passionate developer and aspiring Technopreneur who loves to explore new t
 - 💬 Ask me about **Tech community building in Nepal**
 - 📫 Reach out to me via: [Mail](mailto:sudipseth626@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and playing the guitar!
+- ⚡ Fun fact: I love hiking and brainstorming startup ideas!
 
 ## 🔧 Technologies & Tools
 
