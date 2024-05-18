@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Sudip Seth] 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sudip-S&color=blue)
 
@@ -10,7 +10,7 @@ I'm a passionate developer and aspiring Technopreneur who loves to explore new t
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with **AI related startup ideas**
 - 💬 Ask me about **Tech community building in Nepal**
-- 📫 Rech out to me via: [your.email@example.com](mailto:sudipseth626@gmail.com)
+- 📫 Rech out to me via: [Mail](mailto:sudipseth626@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and playing the guitar!
 
