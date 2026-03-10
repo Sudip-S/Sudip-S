@@ -6,7 +6,7 @@
 
 I'm a passionate developer and aspiring Technopreneur who loves to explore new technologies and create impactful projects.
 
-- 🌱 I’m currently learning **Python, Flutter, and Artificial Intelligence**
+- 🌱 I’m currently into **Python, Flutter, and Artificial Intelligence**
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with **AI related startup ideas**
 - 💬 Ask me about **Tech community building in Nepal**
